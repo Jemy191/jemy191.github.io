@@ -1,3 +1,3 @@
 # Hello This is my web site
 
-[CV](https://cv.jemy191.ca)
+Here my [CV](https://jemy191.ca/cv)
